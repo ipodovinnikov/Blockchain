@@ -1,0 +1,17 @@
+content:
+- LocalTime
+- LocalDate
+- LocalDateTime
+- Serialization basics
+- Custom serialization
+- Queue and Stack
+- Abstract factory
+- Anonymous classes
+- Threads as objects
+- Custom threads
+- Thread management
+- Thread synchronization
+- Facade
+- Reduction methods
+- Currying
+- Builder

@@ -1,0 +1,43 @@
+Block:
+Created by miner # 1
+Miner # 1 gets 100 VC
+Id: 0
+Timestamp: 1649929459930
+Magic number: 0
+Hash of the previous block: 
+0
+Hash of the block: 
+Aa40bc49576bdf53d73b982c8733d7de1fa7bff398ed444fd97c1cbaac6f6cc4b
+Block data:
+no messages
+#Block was generating for 0 seconds
+Block:
+Created by miner # 3
+Miner # 3 gets 100 VC
+Id: 2
+Timestamp: 1649929460401
+Magic number: 0
+Hash of the previous block: 
+Aa40bc49576bdf53d73b982c8733d7de1fa7bff398ed444fd97c1cbaac6f6cc4b
+Hash of the block: 
+A823d385a10490805c8faabcdf17210697585ed4a55cc26bbfed5d0e524d350a1
+Block data:
+&Total amount of 5 VC sent to Miner #3
+#Block was generating for 0 seconds
+N was increased to 1
+
+Block:
+Created by miner # 4
+Miner # 4 gets 100 VC
+Id: 3
+Timestamp: 1649929470611
+Magic number: 0
+Hash of the previous block: 
+A823d385a10490805c8faabcdf17210697585ed4a55cc26bbfed5d0e524d350a1
+Hash of the block: 
+A02173e50f13f36b1b21f932169bba35f0007c3c8d4cc04cfab3676ba46d0a54b
+Block data:
+'Total amount of 32 VC sent to Miner #3
+#Block was generating for 0 seconds
+N was increased to 2
+

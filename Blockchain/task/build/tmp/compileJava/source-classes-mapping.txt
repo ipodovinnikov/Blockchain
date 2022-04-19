@@ -1,0 +1,6 @@
+clients/Miner.java
+ clients.Miner
+clients/MinerManager.java
+ clients.MinerManager
+blockchain/BlockChainManager.java
+ blockchain.BlockChainManager

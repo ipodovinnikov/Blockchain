@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Blockchain/task" />
+            <option value="$PROJECT_DIR$/Blockchain/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Blockchain/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Blockchain/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Blockchain/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Blockchain/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Blockchain/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Phone factory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Single method" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Geek Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Curried function" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/The Range class" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Starting runnables" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Facade/Computer Facade" />
+            <option value="$PROJECT_DIR$/Topics/Facade/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/2 weeks after" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Add 11 hours and print the date" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Seconds between two time points" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Working with queue" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Range quadratic sum" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Serializable user" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Ordering the execution of threads" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Multithreaded counter" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Getting current thread info" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

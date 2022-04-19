@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <sourceTestOutputDir name="test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="Blockchain.Blockchain-task-build-classes-java.main" target="11" />
+      <module name="Blockchain.Blockchain-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Blockchain.Blockchain-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Blockchain.Blockchain-task-build-reports-tests.main" target="11" />
+      <module name="Blockchain.Blockchain-task-build-test-results.main" target="11" />
+      <module name="Blockchain.Blockchain-task-build-tmp.main" target="11" />
+      <module name="Blockchain.Blockchain-task.main" target="11" />
+      <module name="Blockchain.Topics-Abstract_factory-Phone_factory.main" target="11" />
+      <module name="Blockchain.Topics-Abstract_factory-Theory.main" target="11" />
+      <module name="Blockchain.Topics-Anonymous_classes-Single_method.main" target="11" />
+      <module name="Blockchain.Topics-Anonymous_classes-Theory.main" target="11" />
+      <module name="Blockchain.Topics-Builder-Geek_Builder.main" target="11" />
+      <module name="Blockchain.Topics-Builder-Theory.main" target="11" />
+      <module name="Blockchain.Topics-Currying-Curried_function.main" target="11" />
+      <module name="Blockchain.Topics-Currying-Theory.main" target="11" />
+      <module name="Blockchain.Topics-Custom_serialization-The_Range_class.main" target="11" />
+      <module name="Blockchain.Topics-Custom_serialization-Theory.main" target="11" />
+      <module name="Blockchain.Topics-Custom_threads-Starting_runnables.main" target="11" />
+      <module name="Blockchain.Topics-Custom_threads-Theory.main" target="11" />
+      <module name="Blockchain.Topics-Facade-Computer_Facade.main" target="11" />
+      <module name="Blockchain.Topics-Facade-Theory.main" target="11" />
+      <module name="Blockchain.Topics-LocalDate-2_weeks_after.main" target="11" />
+      <module name="Blockchain.Topics-LocalDate-Theory.main" target="11" />
+      <module name="Blockchain.Topics-LocalDateTime-Add_11_hours_and_print_the_date.main" target="11" />
+      <module name="Blockchain.Topics-LocalDateTime-Theory.main" target="11" />
+      <module name="Blockchain.Topics-LocalTime-Seconds_between_two_time_points.main" target="11" />
+      <module name="Blockchain.Topics-LocalTime-Theory.main" target="11" />
+      <module name="Blockchain.Topics-Queue_and_Stack-Theory.main" target="11" />
+      <module name="Blockchain.Topics-Queue_and_Stack-Working_with_queue.main" target="11" />
+      <module name="Blockchain.Topics-Reduction_methods-Range_quadratic_sum.main" target="11" />
+      <module name="Blockchain.Topics-Reduction_methods-Theory.main" target="11" />
+      <module name="Blockchain.Topics-Serialization_basics-Serializable_user.main" target="11" />
+      <module name="Blockchain.Topics-Serialization_basics-Theory.main" target="11" />
+      <module name="Blockchain.Topics-Thread_management-Ordering_the_execution_of_threads.main" target="11" />
+      <module name="Blockchain.Topics-Thread_management-Theory.main" target="11" />
+      <module name="Blockchain.Topics-Thread_synchronization-Multithreaded_counter.main" target="11" />
+      <module name="Blockchain.Topics-Thread_synchronization-Theory.main" target="11" />
+      <module name="Blockchain.Topics-Threads_as_objects-Getting_current_thread_info.main" target="11" />
+      <module name="Blockchain.Topics-Threads_as_objects-Theory.main" target="11" />
+      <module name="Blockchain.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
